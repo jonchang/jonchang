@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jonathan Chang, an evolutionary biologist, data scientist, and open source contributor. I serve on the [Homebrew Project Leadership Committee](https://brew.sh/) and maintain several [R](https://cran.r-project.org/package=fishtree) and [Python](https://pypi.org/project/tact/) packages, as well as [big data resources](https://fishtreeoflife.org) for biological research.
+I'm Jonathan Chang, an evolutionary biologist, data scientist, and open source contributor. I maintain several [R](https://cran.r-project.org/package=fishtree) and [Python](https://pypi.org/project/tact/) packages, as well as [big data resources](https://fishtreeoflife.org) for biological research.
 
 Feel free to reach out if you think there's a collaboration that we'd both be interested in.
 
